@@ -6,5 +6,6 @@ http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/
 
 
 ![Example](Images/KL2T1%20-%20Dual%20Toggle%20Latch.png?raw=true "KL2T1 - Dual Toggle Latch")
+
 KL2T1 - Dual Toggle Latch
 
