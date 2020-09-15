@@ -8,4 +8,7 @@ KL2T1 - Dual Toggle Latch
 
 ![Example](Images/KL2T1%20-%20Dual%20Toggle%20Latch.png?raw=true "KL2T1 - Dual Toggle Latch")
 
+KC84C - 4-Bit Counter With Reset
+
+![Example](Images/KC84C%20-%204-Bit%20Counter%20With%20Reset.png?raw=true "KC84C - 4-Bit Counter With Reset")
 
